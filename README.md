@@ -2,7 +2,7 @@
 
 # Description
 
-This project is a text editor made using web pack following the rules of a progressive web app.
+This project is a text editor made using [webpack](https://www.npmjs.com/package/webpack) following the rules of a progressive web app.
 
 The website deployed to heroku is [here](https://oh-so-progressive.herokuapp.com/).
 
