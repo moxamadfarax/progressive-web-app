@@ -32,7 +32,7 @@ export const getDb = async () => {
   if (!result) {
     console.log("No data found.");
   }
-  return result?.value;
+  return null;
 };
 
 initdb();
